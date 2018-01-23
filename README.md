@@ -1,10 +1,9 @@
 # Forseti
 
-<p align="center">
-  <img src="Init Dispute UML.png?raw=true" height="200" />
+<p>
+  <img src="Init Dispute UML.png" />
 </p>
 
-<p align="center">
-  <img src="Dispute process.png?raw=true" height="200" />
+<p>
+  <img src="Dispute process.png" />
 </p>
-
