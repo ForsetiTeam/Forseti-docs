@@ -1,5 +1,8 @@
 # Forseti
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)]
+
 <p>
   <img src="./pics/ForsetiUML1.png" />
 </p>
