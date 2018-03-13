@@ -26,7 +26,7 @@ The latest implementation of Forseti Protocol architecture can be found here [Ar
 
 [Smart Contracts](https://github.com/ForsetiTeam/Forseti) used by Forseti protocol
 
-Learn more
+[Learn more](https://forseti.gitbooks.io/forseti-doc/content/smart-contracts.html)
 
 ## Get in touch
 
