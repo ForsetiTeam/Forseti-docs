@@ -17,7 +17,8 @@ The general contribution rules can be found at [Contribution ](https://forseti.g
 
 
 ## Sofrware Architecrure
-<p color ='red'> _disclaimer_ Still in development </p>
+### _disclaimer_ : Still in development 
+
 
 
 
