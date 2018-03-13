@@ -4,9 +4,11 @@
 
 ## Smart Contracts
 
+TO DO
+
 ## Off - chain
 
-## 
+TO DO
 
 
 
