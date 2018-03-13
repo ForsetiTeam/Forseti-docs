@@ -1,10 +1,23 @@
-# Forseti
 
+<p align="center">
+  <img width="240" height ="240"  alt="Forseti" src = "./assets/ForsetiLogo.jpg">
+</p>
+
+# Forseti
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)]
+![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)
+
+## Overview 
+
+## Contributions 
+
+
+
+
+## Sofrware Architecrure
 
 <p>
-  <img src="./pics/ForsetiUML1.png" />
+  <img src="./umls/ForsetiUML1.png" />
 </p>
 
 1) Пользователи на клиентском сервисе открывают спор, 
@@ -16,7 +29,7 @@
 7) Все выбранные арбитры получают оповещение о том что они добавлены в сделку
 
 <p>
-  <img src="./pics/ForsetiUML2.png" />
+  <img src="./umls/ForsetiUML2.png" />
 </p>
 
 1) Арбитры голосуют в контракт DRM
