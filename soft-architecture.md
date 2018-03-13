@@ -2,6 +2,8 @@
 
 ![](/umls/architecture.png)
 
+
+
 ## Smart Contracts
 
 TO DO
@@ -9,6 +11,4 @@ TO DO
 ## Off - chain
 
 TO DO
-
-
 
