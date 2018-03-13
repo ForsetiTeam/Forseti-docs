@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="240" height ="240"  alt="Forseti" src = "./assets/ForsetiLogo.jpg">
+  <img width="480" height ="480"  alt="Forseti" src = "./assets/logo-black.png">
 </p>
 
 # Forseti
