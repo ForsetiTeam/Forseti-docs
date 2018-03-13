@@ -1,8 +1,4 @@
-&lt;p&gt;
-
-&lt;img src="./umls/ForsetiUML1.png" /&gt;
-
-&lt;/p&gt;
+![](/umls/ForsetiUML1.png)
 
 1\) Пользователи на клиентском сервисе открывают спор,
 
@@ -18,11 +14,7 @@
 
 7\) Все выбранные арбитры получают оповещение о том что они добавлены в сделку
 
-&lt;p&gt;
-
-&lt;img src="./umls/ForsetiUML2.png" /&gt;
-
-&lt;/p&gt;
+![](/umls/ForsetiUML2.png)
 
 1\) Арбитры голосуют в контракт DRM
 
