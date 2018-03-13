@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="480" height ="480"  alt="Forseti" src = "./assets/logo-black.png">
+  <img width="840" height ="480"  alt="Forseti" src = "./assets/logo-black.png">
 </p>
 
-# Forseti
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)
 
