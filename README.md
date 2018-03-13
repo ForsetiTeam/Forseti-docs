@@ -20,8 +20,15 @@ The general contribution rules can be found at [Contribution ](https://forseti.g
 ### _disclaimer_ : Still in development 
 
 
-
-
 The latest implementation of Forseti Protocol architecture can be found here [Architecture](https://forseti.gitbooks.io/forseti-doc/content/soft-architecture.html)
 
+## Smart contracts
+
+[Smart Contracts](https://github.com/ForsetiTeam/Forseti) used by Forseti protocol
+
+Learn more
+
+## Get in touch
+
+If you have any question , reach us at [Gitter Channel](https://gitter.im/ForsetiTeam)
 
