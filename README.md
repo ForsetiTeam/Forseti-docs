@@ -9,7 +9,9 @@
 
 ## Overview 
 
+Forseti is a decentralized arbitration/mediation network and reputation system framework based on smart contracts
 
+Purpose of this repository to serve as live documentation page for all contributers. Everyone , not only Forseti team members can contribute to this repo. 
 
 ## Contributing
 The general contribution rules can be found at [Contribution ](https://forseti.gitbooks.io/forseti-doc/content/contribution.html)
