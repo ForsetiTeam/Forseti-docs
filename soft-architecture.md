@@ -1,12 +1,10 @@
-# Software Architecture 
+# Software Architecture
 
-
+![](/umls/architecture.png)
 
 ## Smart Contracts
 
-
-
-## Off - chain 
+## Off - chain
 
 ## 
 
