@@ -1,28 +1,40 @@
-![](/umls/ForsetiUML1.png)
 
-1\) Пользователи на клиентском сервисе открывают спор,
 
-2\) Клиентский сервис передает информацию о споре на смарт контракт DRM,
 
-3\) Далее запрос отправляется на контракт master pool, где выбирается подходящий пул/ы,
 
-4\) Мастер выбранного пула получает запрос на подбор арбитров для открытой сделки
+## Random Arbiters Selection
 
-5\) Подбор арбитров осуществляется в офчейне, с использованием соли которую присылают обе стороны сделки и гененерируемая на сервере Мастера пула.
+There are couple methods to get randomness in deterministic environment such as blockchain . For arbiter selection we use Commit-Reveal scheme, basic workflow : 
 
-6\) Выбранный набор арбитров передается в контракт DRM
 
-7\) Все выбранные арбитры получают оповещение о том что они добавлены в сделку
 
-![](/umls/ForsetiUML2.png)
+1\) Customer opens an DRM 
 
-1\) Арбитры голосуют в контракт DRM
+2\) Customer software call a DRM extension smart contract 
 
-2\) Когда голосование кончается результат голосования получает контракт Master Pool и Pool contract
+3\) DRM extension call a Pool smart contract, where it selects appropriate arbiters pool
 
-3\) Мастер пула,оракулы которого принимали решения,рассчитывает как должна распределиться репутация
+4\) _**Pool Master**_ starts a _**Commit Phase**_ by submitting hashed salt 
 
-4\) Расчет мастера пула проверяется на стороне случайно выбранного мастера любого другого пула
+5\) Customer 1 submit hashed salt
 
-5\) Каждый чекпоинт мастера пулов пишут свои расчеты в свой пул и репутация распределяется, также мастера пулов пишут свои проверочные рассчеты во все случайные пулы, сделки которых они проверяли и на контракте проверяется соответствие, в случае если расчеты разнятся, осуществляется дополнительная проверка
+6\) Customer 2 submit hashed salt
+
+![](/assets/commit.png) 
+
+
+
+7\)If all parties sumbited their hashes, _**Reveal Phase  **_can be started_**.**_ 
+
+8\) Customer 1 reveals his hash 
+
+9\) Customer 2 reveal his hash
+
+![](/assets/random.png)
+
+10\) Based on customers and his salt, _**Pool master **_generates a random number and secelects Arbiters based on this number 
+
+
+
+
 
