@@ -6,6 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)
+[![Join the chat at https://gitter.im/ForsetiTeam](https://badges.gitter.im/forseti/forseti.svg)](https://gitter.im/ForsetiTeam)
 
 ## Overview 
 
